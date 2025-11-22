@@ -1,0 +1,14 @@
+
+Threat Intelligence (TI) or Cyber Threat Intelligence (CTI)
+IOC (Yoindicadores of Compromise)
+TTP (Tactics, Techniques, and Procedures)
+
+                                  Threat Intelligence
+Traditionally, defenders use threat intelligence to provide context to the ever-changing threat landscape and 
+quantify findings
+
+
+Applying Threat Intel to the Red Team
+the red team will leverage CTI to aid in adversary emulation and support evidence of an adversary's behaviors.
+To aid in consuming CTI and collecting TTPs, red teams will often use threat intelligence platforms and frameworks 
+such as MITRE ATT&CK, TIBER-EU, and OST Map.
