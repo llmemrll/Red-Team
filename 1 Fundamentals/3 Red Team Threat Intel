@@ -8,7 +8,25 @@ Traditionally, defenders use threat intelligence to provide context to the ever-
 quantify findings
 
 
-Applying Threat Intel to the Red Team
+                          Applying Threat Intel to the Red Team
 the red team will leverage CTI to aid in adversary emulation and support evidence of an adversary's behaviors.
 To aid in consuming CTI and collecting TTPs, red teams will often use threat intelligence platforms and frameworks 
 such as MITRE ATT&CK, TIBER-EU, and OST Map.
+
+The TIBER-EU Framework (Threat Intelligence-based Ethical Red Teaming)
+
+https://www.ecb.europa.eu/pub/pdf/other/ecb.tiber_eu_framework.en.pdf
+https://www.crest-approved.org/membership/tiber-eu/
+
+                                      TTP Mapping
+
+TTP Mapping is employed by the red cell to map adversaries' collected TTPs to a standard cyber kill chain.
+
+To begin the process of mapping TTPs, an adversary must be selected as the target. An adversary can be chosen based on,
+
+1 Target Industry
+2 Employed Attack Vectors
+3 Country of Origin
+4 Other Factors
+
+ The first cyber framework we will be collecting TTPs from is MITRE ATT&CK
