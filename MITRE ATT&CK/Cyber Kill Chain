@@ -14,12 +14,14 @@ Command & Control (C2): Using the installed backdoor, the attacker can control t
 Actions on Objectives: Reaching this far, the attacker can now carry out further actions such as data exfiltration or other systems’ 
                        exploitation.
 
-Reconnaissance
+                                        
+                                      Reconnaissance
+
 Refers to the act of gathering information about a target.
 Reconnaissance can be divided into two types: passive and active
 
 passive reconnaissance:  the attacker performs their activities without making any “noise,” for example, using open-source intelligence 
-                         (OSINT).
+                         (OSINT). WHOIS and DNS databases.
 active reconnaissance:   the attacker cannot remain completely quiet and invisible; it requires some form of interaction with the target 
                          organisation, such as using social engineering against the target’s personnel or scanning a target system for 
                          vulnerabilities.
