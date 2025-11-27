@@ -1,0 +1,8 @@
+AADAPT (Adversarial Actions in Digital Asset Payment Technologies) 
+
+is a newly released knowledge base that includes its own matrix, covering adversary tactics and 
+techniques related to digital asset management systems. AADAPT follows a similar structure to the 
+ATT&CK Framework we covered previously and aims to help defenders understand and mitigate threats 
+targeting blockchain networks, smart contracts, digital wallets, and other digital asset technologies.
+
+https://aadapt.mitre.org/
