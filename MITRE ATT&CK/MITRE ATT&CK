@@ -1,1 +1,15 @@
 MITRE ATT&CK
+
+a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
+
+Tactic: An adversary's goal or objective. The “why” of an attack.
+Technique: How an adversary achieves their goal or objective.    https://attack.mitre.org/tactics/enterprise/
+Procedure: The implementation or how the technique is executed   https://attack.mitre.org/techniques/enterprise/
+
+
+mobile   https://attack.mitre.org/matrices/mobile/
+Industrial Control Systems (ICS)  https://attack.mitre.org/matrices/ics/
+
+MITRE ATT&CK Matrix                 https://attack.mitre.org/matrices/enterprise/
+annotating and exploring matrices   https://mitre-attack.github.io/attack-navigator/
+
