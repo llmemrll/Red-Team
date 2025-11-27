@@ -1,0 +1,9 @@
+Caldera
+
+is an automated adversary emulation tool designed to help security teams test and enhance 
+their defenses. It provides the ability to simulate real-world attacker behavior utilizing 
+the ATT&CK framework. This allows defenders to evaluate detection methods and practice 
+incident response in a controlled environment. Caldera supports offensive and defensive 
+operations, making it a powerful tool for red and blue team exercises.
+
+https://caldera.mitre.org/
