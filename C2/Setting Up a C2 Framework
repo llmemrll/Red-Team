@@ -82,3 +82,16 @@ be exploiting a vulnerable virtual machine to get you more accustomed to the Arm
 
 Now that Armitage is set up and working correctly, in the next task, we will learn more about securely accessing Armitage (as described above), creating 
 listeners, various listener types, generating payloads, and much more!
+
+
+                                         Accessing Your Remote C2 Server That's Listening Locally
+
+-----------------------------------------------------------
+root@kali$ ssh -L 55553:127.0.0.1:55553 root@192.168.0.44
+root@kali$ echo "Connected" 
+Connected
+-----------------------------------------------------------
+
+                                                      Creating a Listener in Armitage
+
+s
