@@ -1,0 +1,26 @@
+                                                      VerDNS.info
+
+With shared hosting, one IP address is shared among many different web servers with different domain names. With reverse 
+IP lookup, starting from a domain name or an IP address, you can find the other domain names using a specific IP address(es).
+
+In the figure below, we used reverse IP lookup to find other servers sharing the same IP addresses used. Therefore, it is 
+important to note that knowing the IP address does not necessarily lead to a single website.
+
+Threat Intelligence Platform requires you to provide a domain name or an IP address, and it will launch a series of tests 
+from malware checks to WHOIS and DNS queries. The WHOIS and DNS results are similar to the results we would get using whois 
+and dig, but Threat Intelligence Platform presents them in a more readable and visually appealing way.
+
+https://viewdns.info/
+
+
+                                              Threat Intelligence Platform
+
+d
+https://threatintelligenceplatform.com/
+
+
+
+Specialized Search Engines
+Censys
+
+https://search.censys.io
