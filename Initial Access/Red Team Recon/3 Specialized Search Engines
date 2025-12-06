@@ -19,6 +19,27 @@ d
 https://threatintelligenceplatform.com/
 
 
+                                                      Shodan
+
+--------------------------------------------------------------------------------------------------------------------
+pentester@TryHackMe$ shodan host 172.67.212.249
+
+172.67.212.249
+City:                    San Francisco
+Country:                 United States
+Organisation:            Cloudflare, Inc.
+Updated:                 2021-11-22T05:55:54.787113
+Number of open ports:    5
+
+Ports:
+     80/tcp  
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2, TLSv1.3
+   2086/tcp  
+   2087/tcp  
+   8080/tcp 
+--------------------------------------------------------------------------------------------------------------------
+
 
 Specialized Search Engines
 Censys
